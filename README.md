@@ -1,4 +1,4 @@
-![logo](https://github.com/Nishanth6353/Nishanth6353/blob/6c26e370e690ed69150b15c0d99c184222775018/NISHANTH%20J%20N.png)
+![logo](https://github.com/Nishanth6353/Nishanth6353/blob/a94c92ecd0a2db6975818c0312571ffd24e7842f/GITHUB-IMAGE.png)
 <h1 align="center">Hi 👋, I'm Nishanth J N</h1>
 <h3 align="center">A passionate in programming,web devoploper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.archmorebusinessweb.com/wp-content/uploads/2024/06/AI-Website-Design-4.jpg">

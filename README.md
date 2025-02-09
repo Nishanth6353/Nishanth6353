@@ -27,4 +27,5 @@
 
 
 
-![snake gif](https://github.com/Nishanth6353/Nishanth6353/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Nishanth6353/Nishanth6353/blob/output/github-snake-dark.svg)
+
